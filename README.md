@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Engineering and Fintech
 - 🌱 I’m currently learning React, Next and Node
 - 💞️ I’m looking to collaborate on Javascript Open Source projects
-- 📫 How to reach me <lumasisstancelaus@gmail.com>
+- 📫 How to reach me <lumasistancelaus@gmail.com>
 - 😄 Pronouns: Sir
 - ⚡ Fun fact: You are one commit from your dream job
 
