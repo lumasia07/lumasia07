@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/goatlumasia" target="blank"><img src="https://img.shields.io/twitter/follow/goatlumasia?logo=twitter&style=for-the-badge" alt="goatlumasia" /></a> </p>
 
-- 🔭 I’m currently working on **Sportystreams**
-
-- 🌱 I’m currently learning **NextJS**
-
 - 👯 I’m looking to collaborate on **Javascript open source projects**
-
-- 🤝 I’m looking for help with **AWS, CI/CD and Devops**
 
 - 👨‍💻 All of my projects are available at [https://lumasia.vercel.app](https://lumasia.vercel.app)
 
@@ -25,7 +19,7 @@
 
 - 📄 Know about my experiences [https://lumasia.vercel.app](https://lumasia.vercel.app)
 
-- ⚡ Fun fact **Into Digital Minimalism**
+- ⚡ Fun fact **A little backend wouldn't hurt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
